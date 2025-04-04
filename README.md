@@ -4,10 +4,10 @@ Frontend dev who occasionally convinces himself he can do backend too. Building 
 
 ## 👨‍💻 About Me
 
-- Building AI tools for legal professionals at [Advomate](https://advomate.ai)
-- Recently won 3rd place at a hackathon (mostly by nodding along while the real engineers worked)
-- I say I'm a full-stack developer, but we all know which side of the stack gets all the love
-- My code is like my coffee - mostly works, occasionally brilliant, sometimes keeps me up at night
+- Building AI tools for legal professionals at [Advomate](https://advomate.cz)
+- Recently won 3rd place at a hackathon (mostly by nodding along and clutching in the last possible moment)
+- Master of the "it works on my machine" guarantee
+- Firm believer that the best code is the code you didn't have to write (for LinkedIn bros - not actually serious about this)
 
 ## 🛠️ Tools I Actually Use
 
@@ -20,25 +20,28 @@ Frontend dev who occasionally convinces himself he can do backend too. Building 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
 
-## 📊 My Impressive GitHub Journey
+## 💻 My Coding Philosophy
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukabudik&layout=compact&theme=dracula" alt="Top Languages" />
 
-**Commit Philosophy:** Why make 50 small, sensible, reviewable commits when you can make one massive commit titled "It works now"?
+**Commit Style:** One commit to rule them all, one commit to find them, one commit to bring them all, and in the codebase bind them.
 
-**My GitHub Résumé:**
-- Total PRs: Enough to count on one hand
-- Contributed to: That one project that one time
-- Commit Messages: Range from "Fixed stuff" to "Please work"
-- Code Reviews: What are those?
+**Vibe Coding Pioneer:** I was vibe coding before it was cool. My workflow:
+1. Spend 30 minutes putting together a complex knowledge base of the tech we're working with
+2. Tell Claude everything I need and let him iterate (spending a lot of $$$ on API credits, but still a no-brainer)
+3. If needed, give him additional tooling access
+4. Let Claude use computer use, testing the code himself
+5. Review the AI-generated code (yes, I actually understand it)
+6. Modify until it's perfect
+7. Take full credit at stand-up
 
-*I believe git blame is a personal attack feature and should be disabled.*
+*10x developer? More like 1x developer with 10x AI assistance.*
 
 ## 🔥 Current Project: Dustebin
 
-A code sharing platform I built while procrastinating on other work. Like a better Pastebin, with syntax highlighting and image support.
+A code sharing platform that lets you share code snippets with syntax highlighting, privacy options, and AI-generated metadata. Because who doesn't need another place to store their half-finished projects?
 
 [![Dustebin](https://github-readme-stats.vercel.app/api/pin/?username=lukabudik&repo=dustebin&theme=dracula)](https://github.com/lukabudik/dustebin)
 
@@ -46,4 +49,4 @@ A code sharing platform I built while procrastinating on other work. Like a bett
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukabudik/)
 
-*If my GitHub stats look concerning, that's because my best code is in private repos... at least that's what I tell recruiters.*
+*My productivity skyrocketed when I discovered LLMs, and so did my "How to exit Vim" searches.*
