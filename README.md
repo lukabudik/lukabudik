@@ -22,11 +22,19 @@ Frontend dev who occasionally convinces himself he can do backend too. Building 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📊 The Stats That Make Me Look Good
+## 📊 My Impressive GitHub Journey
 
-![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukabudik&show_icons=true&count_private=true&theme=dracula&hide=stars)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukabudik&layout=compact&theme=dracula" alt="Top Languages" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukabudik&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+**Commit Philosophy:** Why make 50 small, sensible, reviewable commits when you can make one massive commit titled "It works now"?
+
+**My GitHub Résumé:**
+- Total PRs: Enough to count on one hand
+- Contributed to: That one project that one time
+- Commit Messages: Range from "Fixed stuff" to "Please work"
+- Code Reviews: What are those?
+
+*I believe git blame is a personal attack feature and should be disabled.*
 
 ## 🔥 Current Project: Dustebin
 
@@ -38,4 +46,4 @@ A code sharing platform I built while procrastinating on other work. Like a bett
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukabudik/)
 
-*I also maintain a second GitHub account for code I don't want anyone to see, like my attempts at CSS art.*
+*If my GitHub stats look concerning, that's because my best code is in private repos... at least that's what I tell recruiters.*
